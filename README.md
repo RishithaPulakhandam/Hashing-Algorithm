@@ -1,6 +1,6 @@
-# Hash Table Implementation Programming Project 02
+# Hash Table Implementation Programming
 
-This programming project 02 includes a script for simulating hash table operations with different collision handling strategies: linear probing, quadratic probing, and chaining. It provides a flexible implementation for hash table operations and supports a mid-square hashing option for key insertion.
+This programming project includes a script for simulating hash table operations with different collision handling strategies: linear probing, quadratic probing, and chaining. It provides a flexible implementation for hash table operations and supports a mid-square hashing option for key insertion.
 
 I have submitted the original input file (`LabHashingInput.txt`), which contains keys for insertion into the hash table. The output file (`LabHashingoutput.txt`) contains the performance analysis and final state of the hash table after all keys have been inserted.Additionally input files of sizes 36 (input-36.txt),84 (input-84.txt), 108 (input-108.txt),127 (input-127.txt) are created to observe the efficiency (no.of comparisons) across various file sizes.The output are written into output-36.txt, output-84.txt, output-108.txt, output-127.txt respectively.
 
